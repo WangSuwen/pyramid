@@ -16,4 +16,4 @@ pnpm build
 ```
 
 # Demo
-![demo](./demo.png)
+![demo](./demo.gif)
