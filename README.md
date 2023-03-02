@@ -1,7 +1,3 @@
-<!--
- * @Description: 
- * @Date: 2021-08-03 14:12:57
--->
 ## 3D金字塔
 
 ## Project setup
